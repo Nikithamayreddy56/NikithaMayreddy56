@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Nikitha
 
-<!--
-**Nikithamayreddy56/NikithaMayreddy56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Graduate | 💻 .NET Full Stack Developer | ☁️ Azure Certified (AZ-900)
 
-Here are some ideas to get you started:
+Welcome to my GitHub!  
+I'm actively working on new projects and continuously updating my codebase.  
+You’ll find a mix of:
+- .NET Core APIs
+- Full-stack apps using React, Angular, and Razor
+- Cloud-integrated services (Azure, Docker, Kubernetes)
+- Clean architecture and real-world freelance builds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Check back soon for more updates — new features and projects are on the way!**
+
+📫 Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/nikitha-mayreddy-b80055356)  
+📄 [View My Resume](https://github.com/Nikithamayreddy56/Resume/blob/main/Nikitha_Mayreddy_Resume.pdf)
+
+Thanks for visiting!
+
