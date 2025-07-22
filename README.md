@@ -13,7 +13,6 @@ You’ll find a mix of:
 📌 **Check back soon for more updates — new features and projects are on the way!**
 
 📫 Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/nikitha-mayreddy-b80055356)  
-📄 [View My Resume](Nikitha_Mayreddy_Resume.pdf)
 
 Thanks for visiting!
 
