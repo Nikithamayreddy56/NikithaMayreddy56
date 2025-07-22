@@ -1,18 +1,27 @@
-## Hi there 👋 I'm Nikitha
+Hi there 👋 I'm Nikitha
+🎓 Master's Graduate | 💻 Senior .NET Full Stack Developer | ☁️ Microsoft Azure Certified (AZ-900) | 🚀 Azure Developer Associate (AZ-204) — In Progress
 
-🎓 Master's Graduate | 💻 .NET Full Stack Developer | ☁️ Azure Certified (AZ-900)
+Welcome to my GitHub!
+I'm passionate about building scalable, maintainable software solutions and constantly exploring new technologies. Here, you'll find a growing collection of:
 
-Welcome to my GitHub!  
-I'm actively working on new projects and continuously updating my codebase.  
-You’ll find a mix of:
-- .NET Core APIs
-- Full-stack apps using React, Angular, and Razor
-- Cloud-integrated services (Azure, Docker, Kubernetes)
-- Clean architecture and real-world freelance builds
+>> Robust .NET Core APIs
 
-📌 **Check back soon for more updates — new features and projects are on the way!**
+>> Full-stack applications leveraging React, Angular, and Razor Pages
 
-📫 Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/nikitha-mayreddy-b80055356)  
+>> Cloud-native projects integrating Azure services, Docker, and Kubernetes
 
-Thanks for visiting!
+>> Clean architecture and real-world freelance projects reflecting practical experience
+
+📜 Certifications
+>> Microsoft Certified: Azure Fundamentals (AZ-900)
+
+>> Microsoft Certified: Azure Developer Associate (AZ-204) — In Progress
+
+>> Career Essentials in System Administration
+
+📌 Stay tuned for regular updates — exciting projects and enhancements are in progress!
+
+📫 Let's connect and collaborate! Reach me on [LinkedIn](https://www.linkedin.com/in/nikitha-mayreddy-b80055356)
+
+Thanks for stopping by — your visit means a lot!
 
